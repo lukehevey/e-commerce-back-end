@@ -19,7 +19,7 @@
   
   
   ## Usage
-  Navigate to the command-line and type npm start.
+  Navigate to the command-line and use the 'npm run seed' command and then 'npm start'.
   
   
   ## Questions
